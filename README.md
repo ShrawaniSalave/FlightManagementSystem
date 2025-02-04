@@ -9,6 +9,8 @@ The Flight Management System is a database-driven application designed to facili
 
 🚀 Technologies Used:
 
-Database: MySQL 
+Database: MySQL
+
 Backend: Java 
+
 Connection:Using JDBC
